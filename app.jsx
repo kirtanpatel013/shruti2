@@ -8,7 +8,7 @@ const photos = [
   { src: './kirtan.jpeg',  caption: 'hand in hand, hearts full 💜' },
   { src: './kirtan2.jpeg', caption: 'forehead to forehead, waves behind us 🌊' },
   { src: './kirtan3.jpeg', caption: 'you, me & a quiet little moment 🥰' },
-  { src: './kirtan4.jpeg', caption: 'splashing into forever 💦' }
+  { src: './kirtan4.jpeg', caption: 'splashing into forever 🩵' }
 ];
 
 const questions = {
